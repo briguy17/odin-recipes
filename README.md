@@ -1,2 +1,1 @@
-# odin-recipes
-First TOP project, Recipes!
+This is my first TOP project, and overall the first project that I'm completing from scratch using the command line, Git, Github, and HTML. It's going to be a bit of work and definitely a learning experience, but that's what I'm here for. 
